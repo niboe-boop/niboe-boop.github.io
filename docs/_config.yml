@@ -28,7 +28,7 @@ twitter_username: idonthaveatwitter
 github_username:  niboe-boop
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
